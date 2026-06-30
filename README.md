@@ -66,7 +66,9 @@ Minhas principais responsabilidades foram:
 
 Tela com a recomendação principal e outras opções de atendimento, exibindo tempo de espera, distância e botão para visualizar mais detalhes.
 
-![Tela de listagem de unidades](assets/tela-listagem-unidades.png)
+<p align="center">
+  <img src="assets/tela-listagem-unidades.png" alt="Tela de listagem de unidades" width="300">
+</p>
 
 ---
 
@@ -74,7 +76,9 @@ Tela com a recomendação principal e outras opções de atendimento, exibindo t
 
 Tela com informações detalhadas sobre uma unidade específica, incluindo imagem do local, tempo de espera, número de pacientes na fila, distância, médicos disponíveis e acesso à rota.
 
-![Tela de detalhes da unidade](assets/tela-detalhes-unidade.png)
+<p align="center">
+  <img src="assets/tela-detalhes-unidade.png" alt="Tela de detalhes da unidade" width="300">
+</p>
 
 ---
 
